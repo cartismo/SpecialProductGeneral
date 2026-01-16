@@ -1,0 +1,12 @@
+{
+    "name": "SpecialProductGeneral",
+    "alias": "specialproductgeneral",
+    "description": "Special offers and promotional products selection",
+    "keywords": ["special", "offers", "promotions", "products"],
+    "priority": 0,
+    "providers": [
+        "Modules\\SpecialProductGeneral\\Providers\\SpecialProductGeneralServiceProvider"
+    ],
+    "files": [],
+    "type": "general"
+}
